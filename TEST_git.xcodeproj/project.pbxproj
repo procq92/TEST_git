@@ -14,6 +14,7 @@
 		1575077A283B672A0082E4B4 /* TEST_gitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15750779283B672A0082E4B4 /* TEST_gitTests.swift */; };
 		15750784283B672A0082E4B4 /* TEST_gitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15750783283B672A0082E4B4 /* TEST_gitUITests.swift */; };
 		15750786283B672A0082E4B4 /* TEST_gitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15750785283B672A0082E4B4 /* TEST_gitUITestsLaunchTests.swift */; };
+		15750793283C24060082E4B4 /* NouveauFichier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15750792283C24060082E4B4 /* NouveauFichier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		1575077F283B672A0082E4B4 /* TEST_gitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TEST_gitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		15750783283B672A0082E4B4 /* TEST_gitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TEST_gitUITests.swift; sourceTree = "<group>"; };
 		15750785283B672A0082E4B4 /* TEST_gitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TEST_gitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		15750792283C24060082E4B4 /* NouveauFichier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NouveauFichier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				15750768283B67260082E4B4 /* TEST_gitApp.swift */,
 				1575076A283B67260082E4B4 /* ContentView.swift */,
+				15750792283C24060082E4B4 /* NouveauFichier.swift */,
 				1575076C283B672A0082E4B4 /* Assets.xcassets */,
 				1575076E283B672A0082E4B4 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				1575076B283B67260082E4B4 /* ContentView.swift in Sources */,
 				15750769283B67260082E4B4 /* TEST_gitApp.swift in Sources */,
+				15750793283C24060082E4B4 /* NouveauFichier.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
